@@ -46,7 +46,7 @@ TrendX is a Twitter trend analyzer application built using PyQt5 and Python. It 
 
 3. Run the application:
    ```bash
-   python trend_analyzer.py
+   python trend_analyzer_gui.py
 
 
 ## Usage
